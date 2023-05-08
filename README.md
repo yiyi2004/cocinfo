@@ -30,3 +30,18 @@
 - [reedmand/semantra](https://github.com/freedmand/semantra):Semantra is a multipurpose tool for semantically searching documents. Query by meaning rather than just by matching text.
 - [置身事内](https://book.douban.com/subject/35546622/):这种“混合经济”体系，不是主流经济学教科书中所说的政府和市场的简单分工模式，即政府负责提供公共物品、市场主导其他资源配置；也不是简单的“政府搭台企业唱戏”模式。而是政府及其各类附属机构（国企、事业单位、大银行等）深度参与大多数生产和分配环节的模式。在我国，想脱离政府来了解经济，是不可能的。
 
+### 0509
+
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker):A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.
+
+![lazydocker](./images/2023-05-09-07-26-17.png)
+
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy):Send push notifications to your phone or desktop using PUT/POST
+
+![ntfy](./images/2023-05-09-07-39-02.png)
+
+消息队列 + 爬虫 = 最新资讯收集
+
+- [k3s-io/k3s](https://github.com/k3s-io/k3s):Lightweight Kubernetes. Production ready, easy to install, half the memory, all in a binary less than 100 MB.
+
+- peek performance: 英文原版的 pdf 找不到 QAQ
