@@ -42,6 +42,7 @@
 
 消息队列 + 爬虫 = 最新资讯收集
 
-- [k3s-io/k3s](https://github.com/k3s-io/k3s):Lightweight Kubernetes. Production ready, easy to install, half the memory, all in a binary less than 100 MB.
+- [k3s-io/k3s](https://github.com/k3s-io/k3s):Lightweight Kubernetes. Production ready, easy to install, half the memory, all in a binary less than 100 MB
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith):Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 
 - peek performance: 英文原版的 pdf 找不到 QAQ
