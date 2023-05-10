@@ -37,7 +37,6 @@
 ![lazydocker](./images/2023-05-09-07-26-17.png)
 
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy):Send push notifications to your phone or desktop using PUT/POST
-
 ![ntfy](./images/2023-05-09-07-39-02.png)
 
 消息队列 + 爬虫 = 最新资讯收集
@@ -45,3 +44,9 @@
 - [k3s-io/k3s](https://github.com/k3s-io/k3s):Lightweight Kubernetes. Production ready, easy to install, half the memory, all in a binary less than 100 MB.
 
 - peek performance: 英文原版的 pdf 找不到 QAQ
+
+### 0510
+
+- [1Panel](https://github.com/1Panel-dev/1Panel):现代化、开源的 Linux 服务器运维管理面板。
+- [HttpRouter](https://github.com/julienschmidt/httprouter):A high performance HTTP request router that scales well
+- [pgx - PostgreSQL Driver and Toolkit](https://github.com/jackc/pgx):PostgreSQL driver and toolkit for Go
