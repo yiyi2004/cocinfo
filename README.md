@@ -51,3 +51,4 @@
 - [1Panel](https://github.com/1Panel-dev/1Panel):现代化、开源的 Linux 服务器运维管理面板。
 - [HttpRouter](https://github.com/julienschmidt/httprouter):A high performance HTTP request router that scales well
 - [pgx - PostgreSQL Driver and Toolkit](https://github.com/jackc/pgx):PostgreSQL driver and toolkit for Go
+- [expressvpn/lightway-core](https://github.com/expressvpn/lightway-core):Lightway Core is a modern VPN protocol by ExpressVPN, to deliver a VPN experience that’s faster, more secure, and more reliable.
