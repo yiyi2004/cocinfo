@@ -64,3 +64,4 @@
 
 - [深度学习入门](https://book.douban.com/subject/30270959/)
 - [深度学习进阶：自然语言处理](https://book.douban.com/subject/35225413/)
+- [Jitsi Meet](https://github.com/jitsi/jitsi-meet):Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
