@@ -59,3 +59,8 @@
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea):A powerful little TUI framework 🏗
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss):Style definitions for nice terminal layouts 👄
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers):Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+
+### 0512
+
+- [深度学习入门](https://book.douban.com/subject/30270959/)
+- [深度学习进阶：自然语言处理](https://book.douban.com/subject/35225413/)
