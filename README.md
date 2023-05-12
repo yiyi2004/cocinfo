@@ -52,3 +52,10 @@
 - [HttpRouter](https://github.com/julienschmidt/httprouter):A high performance HTTP request router that scales well
 - [pgx - PostgreSQL Driver and Toolkit](https://github.com/jackc/pgx):PostgreSQL driver and toolkit for Go
 - [expressvpn/lightway-core](https://github.com/expressvpn/lightway-core):Lightway Core is a modern VPN protocol by ExpressVPN, to deliver a VPN experience that’s faster, more secure, and more reliable.
+
+### 0511
+
+- [privateGPT](https://github.com/imartinez/privateGPT):Interact privately with your documents using the power of GPT, 100% privately, no data leaks
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea):A powerful little TUI framework 🏗
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss):Style definitions for nice terminal layouts 👄
+- [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers):Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
